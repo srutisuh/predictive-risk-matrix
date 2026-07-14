@@ -2,7 +2,7 @@
 
 An end-to-end data product designed to transform traditional, reactive corporate risk management into a proactive, real-time perimeter. This system leverages machine learning to continuously monitor operational telemetry streams, predict systemic vendor failures, and dynamically map risk positions onto an interactive executive 5x5 matrix with automated prescriptive playbooks.
 
-**Live Dashboard Application:** 
+**Live Dashboard Application:** https://predictive-risk-matrix-9egnbkov7c8dd7ebzqngcs.streamlit.app/
 
 ## Core Business Use Case
 
